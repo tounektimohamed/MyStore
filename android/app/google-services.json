@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "839487780320",
+    "firebase_url": "https://hello-app-8610b-default-rtdb.firebaseio.com",
+    "project_id": "hello-app-8610b",
+    "storage_bucket": "hello-app-8610b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839487780320:android:6bfd3403f491362d8c6785",
+        "android_client_info": {
+          "package_name": "com.example.store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTt8pApZ6dEEmczYrXXOBAc-VNYL_oAaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
